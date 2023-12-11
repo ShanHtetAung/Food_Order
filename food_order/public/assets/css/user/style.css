@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+nav.navbar,
+footer {
+    background-color: #e9eef5;
+}
+
+.navbar-nav .nav-item:hover .nav-link {
+    background-color: #f8f9fa;
+    border-radius: 5px;
+}
+
+.footer_ul {
+    padding-left: 0;
+}
